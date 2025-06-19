@@ -1,4 +1,12 @@
-#I created a scene of 2 cars driving in a city towards each other and then colliding creating an explosion. 
+# Real-Time 3D Animation
 
-The animations dont work properly when the HTML is opened directly from the file. Please open the project in vscode or liver server to run to see the proper animations 
-Thank you
+## Project Description
+
+This project features a real-time 3D animated scene of two cars driving towards each other in a city environment. The cars collide and create an explosion effect. The scene uses hierarchical models, custom shaders, procedural textures, and a 360-degree camera fly-around.
+## Features
+
+- Two cars modeled with hierarchical parts, animated to drive and collide  
+- Explosion effect created using custom shaders  
+- Procedural textures applied to city and vehicles  
+- 360° camera fly-around showing the scene from all angles  
+
